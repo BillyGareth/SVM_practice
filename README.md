@@ -1,4 +1,4 @@
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SVM_margin.png/300px-SVM_margin.png"  height = 200, width = 400> </img>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SVM_margin.png/300px-SVM_margin.png"  height = 200, width = 400> </img> <img src= "https://developer.xilinx.com/content/xilinx-developer/en/articles/exploring-support-vector-machine-acceleration-with-vitis/_jcr_content/root/parsys/xilinximage.img.png/1571676692198.png" height = 200, width = 600> </img>
 *Support vector machines (SVMs)* are a set of supervised learning methods used for classification, regression and outliers detection.
 
 The advantages of support vector machines are:
