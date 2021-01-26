@@ -1,3 +1,4 @@
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SVM_margin.png/300px-SVM_margin.png"> </img>
 *Support vector machines (SVMs)* are a set of supervised learning methods used for classification, regression and outliers detection.
 
 The advantages of support vector machines are:
